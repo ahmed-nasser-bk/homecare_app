@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512426083235",
+    "project_id": "homecare-novel",
+    "storage_bucket": "homecare-novel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512426083235:android:4e7637ee0f1bfd67e79016",
+        "android_client_info": {
+          "package_name": "com.example.home_care_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACVmiqCo9XcsjJYsh3-k7amSgBtqIXyuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
